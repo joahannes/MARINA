@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# TESTE
+
 function INIT()
 {
     source "venv/bin/activate"
